@@ -1,4 +1,4 @@
-City/Country,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index,City,Country,Latitude,Longitude
+City/Country,Cost of Living Index,Rent Index,Cost of Living Plus Rent Index,Groceries Index,Restaurant Price Index,Local Purchasing Power Index,City,Name,Latitude,Longitude
 "Zurich, Switzerland",141.25,66.14,105.03,149.86,135.76,142.7,Zurich,Switzerland,47.376943,8.541406
 "Geneva, Switzerland",134.83,71.7,104.38,138.98,129.74,130.96,Geneva,Switzerland,46.201756,6.146601
 "Basel, Switzerland",130.68,49.68,91.61,127.54,127.22,139.01,Basel,Switzerland,47.559599,7.588576
